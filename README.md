@@ -4,7 +4,7 @@ From data prep to modeling HMA property behavior, this AWS Sagemaker app allows 
 
 # TECHNOLOGIES
 
--AWS Sagemaker AI -Machine Learning -data modeling -Production Data Analysis
+-AWS Sagemaker AI -Machine Learning -Data Modeling -Production Data Analysis
 
 ![dataset](https://github.com/user-attachments/assets/f3faaf3f-d80f-4b9f-a97b-1dd3f1c90b75)
 
