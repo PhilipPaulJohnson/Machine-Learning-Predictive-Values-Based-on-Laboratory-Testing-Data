@@ -1,5 +1,10 @@
 # Machine Learning & Predictive Values Based on Laboratory Testing Data
+
 From data prep to modeling HMA property behavior, this AWS Sagemaker app allows the user to experiment with theoretical aggregate/additive blends to speed up the mix design process and tune production settings
+
+# TECHNOLOGIES
+
+-AWS Sagemaker AI -Machine Learning -data modeling -Production Data Analysis
 
 ![dataset](https://github.com/user-attachments/assets/f3faaf3f-d80f-4b9f-a97b-1dd3f1c90b75)
 
